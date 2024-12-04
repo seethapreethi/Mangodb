@@ -1,0 +1,23 @@
+# Node modules
+/node_modules/
+
+# Environment variables file
+/.env
+
+# Logs
+*.log
+
+# npm-debug.log files
+npm-debug.log*
+
+# Build output
+/dist
+
+# MacOS system files
+.DS_Store
+
+# IDE specific files (for example, VS Code)
+.vscode/
+
+# Other sensitive files
+*.env.local
